@@ -1,0 +1,11 @@
+a, a:hover {
+    text-decoration: none;
+}
+
+.header-div {
+    padding: 10px 10px;
+}
+
+.collection-item {
+    color: #311b92 !important;
+}
